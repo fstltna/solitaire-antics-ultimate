@@ -1,0 +1,238 @@
+<TOURDEF>
+<GAMENAME>The Grand Tour</GAMENAME>
+<GAMECOUNT>234</GAMECOUNT>
+<GAME1>Aces Out</GAME1>
+<GAME2>Aces Up</GAME2>
+<GAME3>Acquaintance</GAME3>
+<GAME4>Agnes</GAME4>
+<GAME5>Agnes Bernauer</GAME5>
+<GAME6>Agnes Sorel</GAME6>
+<GAME7>Alaska</GAME7>
+<GAME8>Alhambra</GAME8>
+<GAME9>Ali Baba</GAME9>
+<GAME10>Alternate</GAME10>
+<GAME11>Alternation</GAME11>
+<GAME12>Alternations</GAME12>
+<GAME13>American Toad</GAME13>
+<GAME14>Ant's Solitaire</GAME14>
+<GAME15>Arizona</GAME15>
+<GAME16>Auld Lang Syne</GAME16>
+<GAME17>Baby Spiderette</GAME17>
+<GAME18>Baker's Dozen</GAME18>
+<GAME19>Baker's Game</GAME19>
+<GAME20>Baroness</GAME20>
+<GAME21>Bastion</GAME21>
+<GAME22>Batsford</GAME22>
+<GAME23>Beetle</GAME23>
+<GAME24>Beleaguered Castle</GAME24>
+<GAME25>Betsy Ross</GAME25>
+<GAME26>Big Forty</GAME26>
+<GAME27>Bisley</GAME27>
+<GAME28>Bisley (12 Pile)</GAME28>
+<GAME29>Black Hole</GAME29>
+<GAME30>Black Widow</GAME30>
+<GAME31>Blind Alleys</GAME31>
+<GAME32>Block Ten</GAME32>
+<GAME33>Blondes and Brunettes</GAME33>
+<GAME34>Brazilian Patience</GAME34>
+<GAME35>Brigade</GAME35>
+<GAME36>Bristol</GAME36>
+<GAME37>British Square</GAME37>
+<GAME38>Buffalo Bill</GAME38>
+<GAME39>Busy Aces</GAME39>
+<GAME40>Calculation</GAME40>
+<GAME41>Canfield</GAME41>
+<GAME42>Canister</GAME42>
+<GAME43>Capricieuse</GAME43>
+<GAME44>Captive Queens (Quadrille)</GAME44>
+<GAME45>Carlton</GAME45>
+<GAME46>Carpet</GAME46>
+<GAME47>Castles in Spain</GAME47>
+<GAME48>Chameleon</GAME48>
+<GAME49>Chessboard</GAME49>
+<GAME50>Cicely</GAME50>
+<GAME51>Citadel</GAME51>
+<GAME52>Colorado</GAME52>
+<GAME53>Cone</GAME53>
+<GAME54>Congress</GAME54>
+<GAME55>Corona</GAME55>
+<GAME56>Courtyard</GAME56>
+<GAME57>Crescent</GAME57>
+<GAME58>Criss Cross</GAME58>
+<GAME59>Cruel</GAME59>
+<GAME60>Czarina</GAME60>
+<GAME61>Demon</GAME61>
+<GAME62>Deuces</GAME62>
+<GAME63>Dial</GAME63>
+<GAME64>Diplomat</GAME64>
+<GAME65>Double Canfield</GAME65>
+<GAME66>Double Chameleon</GAME66>
+<GAME67>Double Easthaven</GAME67>
+<GAME68>Double Fourteen Puzzle</GAME68>
+<GAME69>Double Klondike</GAME69>
+<GAME70>Double or Quits</GAME70>
+<GAME71>Double Rail</GAME71>
+<GAME72>Double Scorpion</GAME72>
+<GAME73>Double Yukon</GAME73>
+<GAME74>Doublets</GAME74>
+<GAME75>Dutchess</GAME75>
+<GAME76>Dutchess of Canfield</GAME76>
+<GAME77>Eagle Wing</GAME77>
+<GAME78>Easthaven</GAME78>
+<GAME79>Eight Off</GAME79>
+<GAME80>Elevens</GAME80>
+<GAME81>Emperor</GAME81>
+<GAME82>Falling Star</GAME82>
+<GAME83>Famous Fifty</GAME83>
+<GAME84>Fan</GAME84>
+<GAME85>Fascination</GAME85>
+<GAME86>Fifteens</GAME86>
+<GAME87>Floradora</GAME87>
+<GAME88>Flower Garden</GAME88>
+<GAME89>Fort</GAME89>
+<GAME90>Fortress</GAME90>
+<GAME91>Fortune's Favor</GAME91>
+<GAME92>Forty and Eight</GAME92>
+<GAME93>Forty Nine</GAME93>
+<GAME94>Forty Thieves</GAME94>
+<GAME95>Four Leaf Clovers</GAME95>
+<GAME96>Four Seasons</GAME96>
+<GAME97>Fourteen Puzzle</GAME97>
+<GAME98>FreeCell</GAME98>
+<GAME99>Frog</GAME99>
+<GAME100>Gaps</GAME100>
+<GAME101>Gargantua</GAME101>
+<GAME102>Gate</GAME102>
+<GAME103>Giant</GAME103>
+<GAME104>Golf</GAME104>
+<GAME105>Good Measure</GAME105>
+<GAME106>Grampa St. John's</GAME106>
+<GAME107>Grandfather</GAME107>
+<GAME108>Grandfather's Clock</GAME108>
+<GAME109>Harp</GAME109>
+<GAME110>Heads and Tails</GAME110>
+<GAME111>House in the Wood</GAME111>
+<GAME112>House on the Hill</GAME112>
+<GAME113>Imperial Guards</GAME113>
+<GAME114>Indefatigable</GAME114>
+<GAME115>Indian</GAME115>
+<GAME116>Intelligence</GAME116>
+<GAME117>Interment</GAME117>
+<GAME118>Josephine</GAME118>
+<GAME119>King Albert (Idiot's Delight)</GAME119>
+<GAME120>Kingsdown Eights</GAME120>
+<GAME121>Klondike ("Regular")</GAME121>
+<GAME122>Klondike (Flip 3)</GAME122>
+<GAME123>Knotty Pines</GAME123>
+<GAME124>La Belle Lucie</GAME124>
+<GAME125>La Belle Lucie (without draw)</GAME125>
+<GAME126>Lady Betty</GAME126>
+<GAME127>Lady Palk</GAME127>
+<GAME128>Lanes</GAME128>
+<GAME129>Las Vegas (Klondike)</GAME129>
+<GAME130>Limited</GAME130>
+<GAME131>Little Billie</GAME131>
+<GAME132>Little Forty</GAME132>
+<GAME133>Little Napoleon</GAME133>
+<GAME134>Little Scorpion</GAME134>
+<GAME135>Lucas</GAME135>
+<GAME136>Lucky Thirteen</GAME136>
+<GAME137>Maria</GAME137>
+<GAME138>Martha</GAME138>
+<GAME139>Midshipman</GAME139>
+<GAME140>Miss Milligan</GAME140>
+<GAME141>Monte Carlo</GAME141>
+<GAME142>Napoleon in St. Helena</GAME142>
+<GAME143>Napoleon's Square</GAME143>
+<GAME144>Nationale</GAME144>
+<GAME145>Nestor</GAME145>
+<GAME146>New York</GAME146>
+<GAME147>Nines</GAME147>
+<GAME148>Number Ten</GAME148>
+<GAME149>Octagon</GAME149>
+<GAME150>Parliament</GAME150>
+<GAME151>Pas Seul</GAME151>
+<GAME152>Patriarchs</GAME152>
+<GAME153>Penguin</GAME153>
+<GAME154>Perseverance</GAME154>
+<GAME155>Picture Patience</GAME155>
+<GAME156>Preference</GAME156>
+<GAME157>Puss in the Corner</GAME157>
+<GAME158>Putt Putt</GAME158>
+<GAME159>Pyramid</GAME159>
+<GAME160>Quadrangle</GAME160>
+<GAME161>Queens and Jacks</GAME161>
+<GAME162>Raglan</GAME162>
+<GAME163>Rainbow (Canfield)</GAME163>
+<GAME164>Rainbow (Intelligence)</GAME164>
+<GAME165>Rank and File</GAME165>
+<GAME166>Red and Black</GAME166>
+<GAME167>Repair</GAME167>
+<GAME168>Reserves</GAME168>
+<GAME169>Reverse Klondike (Kingsley)</GAME169>
+<GAME170>Roosevelt</GAME170>
+<GAME171>Rouge et Noir</GAME171>
+<GAME172>Rouge et Noir (Jewell)</GAME172>
+<GAME173>Rows of Four</GAME173>
+<GAME174>Royal Family</GAME174>
+<GAME175>Russian Solitaire</GAME175>
+<GAME176>Saint Helena</GAME176>
+<GAME177>San Juan Hill</GAME177>
+<GAME178>Saratoga</GAME178>
+<GAME179>Scorpion</GAME179>
+<GAME180>Scotch Patience</GAME180>
+<GAME181>Sea Towers</GAME181>
+<GAME182>Senate</GAME182>
+<GAME183>Shady Lanes</GAME183>
+<GAME184>Shamrocks</GAME184>
+<GAME185>Shamrocks Up + Down</GAME185>
+<GAME186>Shifting</GAME186>
+<GAME187>Simple Pairs</GAME187>
+<GAME188>Simple Simon</GAME188>
+<GAME189>Simplicity</GAME189>
+<GAME190>Single Rail</GAME190>
+<GAME191>Sir Tommy</GAME191>
+<GAME192>Sly Fox</GAME192>
+<GAME193>Solid Square</GAME193>
+<GAME194>Somerset</GAME194>
+<GAME195>Spanish Patience</GAME195>
+<GAME196>Spider</GAME196>
+<GAME197>Spiderette</GAME197>
+<GAME198>Squadron</GAME198>
+<GAME199>Stalactites</GAME199>
+<GAME200>Steps</GAME200>
+<GAME201>Storehouse</GAME201>
+<GAME202>Streets and Alleys</GAME202>
+<GAME203>Sultan of Turkey</GAME203>
+<GAME204>Super Flower Garden</GAME204>
+<GAME205>Superior Canfield</GAME205>
+<GAME206>Swedish Patience</GAME206>
+<GAME207>Tam O' Shanter</GAME207>
+<GAME208>Tarantula</GAME208>
+<GAME209>Tens</GAME209>
+<GAME210>Thieves of Egypt</GAME210>
+<GAME211>Thirteens</GAME211>
+<GAME212>Thirty Nine Steps</GAME212>
+<GAME213>Thirty Six</GAME213>
+<GAME214>Thumb and Pouch</GAME214>
+<GAME215>Tournament</GAME215>
+<GAME216>Trefoil</GAME216>
+<GAME217>Triangle</GAME217>
+<GAME218>Triple Line</GAME218>
+<GAME219>Trusty Twelve</GAME219>
+<GAME220>Twenty</GAME220>
+<GAME221>Twin Queens</GAME221>
+<GAME222>Ukrainian Solitaire</GAME222>
+<GAME223>Unlimited</GAME223>
+<GAME224>Vertical</GAME224>
+<GAME225>Visual Pairs</GAME225>
+<GAME226>Waning Moon</GAME226>
+<GAME227>Waterloo</GAME227>
+<GAME228>Westcliff</GAME228>
+<GAME229>Wheatsheaf</GAME229>
+<GAME230>Whitehead</GAME230>
+<GAME231>Will o' the Wisp</GAME231>
+<GAME232>Wings</GAME232>
+<GAME233>Wood</GAME233>
+<GAME234>Yukon</GAME234>
+</TOURDEF>

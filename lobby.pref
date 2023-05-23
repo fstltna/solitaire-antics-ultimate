@@ -1,0 +1,15 @@
+
+[LastPkg]
+LastPkg=SolPkg
+
+[Lobby]
+Bounds_Height=773
+Bounds_Width=1206
+PoppedGroup=Solitaire
+UpperLeft_Left=74
+UpperLeft_Top=27
+fullscreen=0
+resolution=1024
+user1=cls
+user2=MarisaG
+username=MarisaG

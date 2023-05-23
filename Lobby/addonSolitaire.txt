@@ -1,0 +1,54 @@
+;addon definition for Slots II
+;***file begins
+; count of games in this file
+2
+;Sort index for the games in this file
+59900
+;
+;Item 1 is main slots menu button
+;serverName
+solServer
+;clientName
+solitaireAntics
+;displayName
+Solitaire
+;packageMinVersion
+0
+;packageMaxVersion
+0
+;packageName
+SolPkg
+;suitCaseName
+Lobby/GameButtons2.SUI
+;suitCaseItem
+0
+;optionCount
+1
+;option 0 through optionCount-1
+0
+;isGroup
+1
+;Item 2 is Slots II button
+; serverName
+solServer
+; clientName
+solitaireAntics
+;displayName
+Solitaire Antics Ultimate
+;packageMinVersion
+0x00010001
+;packageMaxVersion
+0x00010009
+;packageName
+SolPkg
+;suitCaseName
+Lobby/GameButtons2.SUI
+;suitCaseItem
+4
+;optionCount
+1
+;option 0 through optionCount-1
+1
+;isGroup
+0
+;***file ends
